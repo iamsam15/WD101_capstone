@@ -47,7 +47,7 @@ const displayEntries = () => {
     <th class="px-4 py-2 text-center">Email</th>
     <th class="px-4 py-2 text-center">password</th>
     <th class="px-4 py-2 text-center">DOB</th>
-    <th class="px-4 py-2 text-center">accepted Terms ? </th>
+    <th class="px-4 py-2 text-center">accepted Terms? </th>
     </tr>${tableEntries} </table>`;
 
   let details = document.getElementById("user-entries");
